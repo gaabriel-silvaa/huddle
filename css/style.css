@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+body {
+    background: linear-gradient(180deg, hsl(257, 40%, 49%), hsl(300, 69%, 71%));
+    height: 100vh;
+   margin: 0;
+}
+
+header {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.5rem; 
+    color: #fff;
+   display: flex;
+}
+
+.image--header {
+    float: left;
+    margin: 4.687rem 0.625rem 0.625rem 5rem;
+    height: 50px;
+    width: 50px;
+}
+
+.title--header { 
+    margin-left: 8.75rem;  
+    margin-top: 4.125rem;
+}
